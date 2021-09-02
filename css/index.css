@@ -1,0 +1,33 @@
+.max-height {
+  min-height: 80vh;
+}
+body {
+  background: #a7cfdf;
+}
+.quote-container {
+  background: #262C7C;
+}
+
+#generate-btn:hover {
+  background: #4d8b9e;
+  border-color: #4d8b9e;
+  color: #fff;
+}
+.author {
+  color: #64b6ac;
+}
+#generate-btn{
+  background-color: #EB0065;color:white;
+  margin-left: 45%; 
+  margin-top:3%;
+  width: 25%;
+  padding:6px;
+  border:1px solid #EB0065;
+  border-radius:5px;
+  cursor: pointer;
+} 
+.inspo{
+  height: 20vh;
+  margin-left: 35%;
+  color: #fff;
+}
